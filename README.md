@@ -17,13 +17,17 @@ pandas: Library used to read and manage the product data in CSV format.
 
 ## 🖥 How to Use
 **Setup:**
+
 _Ensure Python is installed on your machine._
 
 **Install necessary libraries:**
+
 _pip install pyautogui pandas_
+
 _Ensure you have a produtos.csv file in the same directory as your script. This file should contain the product information to be registered._
 
 **Run the script:**
+
 _python automated_product_registration.py_
 
 The script will automatically open Microsoft Edge, log into the system, and start registering products from the CSV file.
