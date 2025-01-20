@@ -18,9 +18,11 @@ pandas: Library used to read and manage the product data in CSV format.
 ## 🖥 How to Use
 **Setup:**
 _Ensure Python is installed on your machine._
+
 **Install necessary libraries:**
 _pip install pyautogui pandas_
 _Ensure you have a produtos.csv file in the same directory as your script. This file should contain the product information to be registered._
+
 **Run the script:**
 _python automated_product_registration.py_
 
@@ -35,7 +37,7 @@ Step 3: Reads the produtos.csv file containing product data.
 Step 4: Loops through each row of the CSV file, entering product information into the web form.
 Step 5: Scrolls to the next page and repeats the process for all products.
 
-##📐 Features in Action
+## 📐 Features in Action
 Data Entry Automation: Saves hours of manual data entry by automating the entire product registration process.
 Customization: Easily modify the script to suit different platforms or data fields.
 
